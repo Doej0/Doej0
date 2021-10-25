@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doej0
 - 👀 I’m interested in web design/development and anything I pick up along the way
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Javascript/CSS/HTML  
 - 💞️ I’m looking to collaborate on anything a newbie could possibly handle
 - 📫 How to reach me ...just shoot me a message
 
